@@ -44,3 +44,4 @@ jobs:
           DEBRICKED_TOKEN: ${{ secrets.DEBRICKED_TOKEN_STAGING }}
           DEBRICKED_URI: 'https://staging.debricked.com'
 
+
