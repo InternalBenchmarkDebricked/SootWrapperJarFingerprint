@@ -1,2 +1,2 @@
-test jar fingerprint with config file
+test jar fingerprint with config file.
 
