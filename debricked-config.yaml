@@ -1,4 +1,4 @@
 overrides:
   - pURL: "pkg:maven/org.radarbase/radar-android-ppg"
-    fileRegexes: # (PCRE2)
+    fileRegexes: # (PCRE2S) 
       - .*/ppg/.*
